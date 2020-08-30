@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/business-web/static/css/main.017eec5e.chunk.css",
+    "main.js": "/business-web/static/js/main.433eaf8c.chunk.js",
+    "main.js.map": "/business-web/static/js/main.433eaf8c.chunk.js.map",
+    "runtime-main.js": "/business-web/static/js/runtime-main.ce90de8e.js",
+    "runtime-main.js.map": "/business-web/static/js/runtime-main.ce90de8e.js.map",
+    "static/css/2.11829350.chunk.css": "/business-web/static/css/2.11829350.chunk.css",
+    "static/js/2.4cd3cca4.chunk.js": "/business-web/static/js/2.4cd3cca4.chunk.js",
+    "static/js/2.4cd3cca4.chunk.js.map": "/business-web/static/js/2.4cd3cca4.chunk.js.map",
+    "index.html": "/business-web/index.html",
+    "precache-manifest.32c34d3bc61c79dc17db206130b37e44.js": "/business-web/precache-manifest.32c34d3bc61c79dc17db206130b37e44.js",
+    "service-worker.js": "/business-web/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/business-web/static/css/2.11829350.chunk.css.map",
+    "static/css/main.017eec5e.chunk.css.map": "/business-web/static/css/main.017eec5e.chunk.css.map",
+    "static/js/2.4cd3cca4.chunk.js.LICENSE.txt": "/business-web/static/js/2.4cd3cca4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce90de8e.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.4cd3cca4.chunk.js",
+    "static/css/main.017eec5e.chunk.css",
+    "static/js/main.433eaf8c.chunk.js"
+  ]
+}
